@@ -1,0 +1,11 @@
+{
+  "name": "luxy",
+  "version": "1.0.0",
+  "description": "Luxury crypto experience",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
