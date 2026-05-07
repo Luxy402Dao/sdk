@@ -1,5 +1,4 @@
-# ✨ LUXY : EwxudvRMUj6Va58ZvTasMntx27d7bNdAyTx7BHbSpump
-
+# ✨ LUXY 
 **Security Layer for the Agentic Internet**
 
 ---
